@@ -8,7 +8,7 @@ there are some examples
 ![loaderror](https://github.com/AkatsukiTse/captcha-model/blob/master/pics/ix4i.jpg)    
 ![loaderror](https://github.com/AkatsukiTse/captcha-model/blob/master/pics/pZwV.jpg)   
 ![loaderror](https://github.com/AkatsukiTse/captcha-model/blob/master/pics/ssNb.jpg)   
-After a small fine turn(only 500 examples), the model gets 50% accuracy.
+After a small fine turn, the model gets 60% accuracy(the accuracy of orginal captcha keep 90%)
 # Require
 Python3+  
 keras2+  
